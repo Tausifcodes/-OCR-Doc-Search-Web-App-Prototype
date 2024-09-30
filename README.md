@@ -45,7 +45,9 @@ streamlit run app.py
 
 Open a web browser and go to http://localhost:8501 to access the application.
 
-## Deployment     Live link :  https://ayhfa5nbvs6huvc4rsesme.streamlit.app/
+## Deployment  
+
+   Live link :  https://ayhfa5nbvs6huvc4rsesme.streamlit.app/
 
 To deploy the application, you can use platforms like Heroku, Streamlit Sharing, or any cloud service that supports Python web applications. Here's a brief overview of deploying to Streamlit Sharing:
 
