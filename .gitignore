@@ -1,0 +1,19 @@
+# Ignore the virtual environment
+ocr-env/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore any IDE config files (like VSCode)
+.vscode/
+
+# Ignore log files and environment config
+*.log
+.env
+
+
+# Ignore virtual environment and large files
+ocr-env/
+*.dll
+*.lib
+*.pyd
