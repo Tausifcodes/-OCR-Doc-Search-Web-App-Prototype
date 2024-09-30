@@ -45,7 +45,7 @@ streamlit run app.py
 
 Open a web browser and go to http://localhost:8501 to access the application.
 
-## Deployment
+## Deployment     Live link :  https://ayhfa5nbvs6huvc4rsesme.streamlit.app/
 
 To deploy the application, you can use platforms like Heroku, Streamlit Sharing, or any cloud service that supports Python web applications. Here's a brief overview of deploying to Streamlit Sharing:
 
@@ -78,3 +78,8 @@ Ensure all dependencies are installed correctly.
 If the OCR function throws an error related to easyocr, ensure that the easyocr package is correctly installed and imported.
 For any runtime errors, check the console output for traceback information to identify the source of the error.
 
+![Screenshot 2024-09-30 180909](https://github.com/user-attachments/assets/b56735d6-5b3b-4c06-83e6-2b6e2fa55cdb)
+
+![Screenshot 2024-09-30 180838](https://github.com/user-attachments/assets/cf0a8426-6c04-46a0-b1e4-3046c6a03dba)
+
+![Screenshot 2024-09-30 180815](https://github.com/user-attachments/assets/9f86984c-26f0-4b14-944e-885761083334)
